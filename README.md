@@ -14,3 +14,8 @@ How to use the Moveit Environment file
 - Launch the virtual robot using the new launch file:
 
       roslaunch j2s7s300_moveit_config j2s7s300_virtual_robot_demo_traj.launch
+
+# Camera Calibration
+
+- Camera Matrix - Look at camera_mtx.npy
+- Distortion Matrix - Look at dist_mtx.npy
